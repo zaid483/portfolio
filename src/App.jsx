@@ -111,26 +111,6 @@ export default function App() {
           </div>
         </section>
 
-        {/* Contact Section */}
-        <section className="mb-12 text-center text-white">
-          <h2 className="text-4xl font-bold mb-4">Contact</h2>
-          <p className="text-gray-300 mb-6">Email: zaid@email.com</p>
-          <div className="flex justify-center gap-6 flex-wrap">
-            <a
-              href="#"
-              className="px-6 py-3 bg-gradient-to-r from-purple-400 via-pink-400 to-red-400 rounded-xl shadow hover:scale-105 transition"
-            >
-              LinkedIn
-            </a>
-            <a
-              href="#"
-              className="px-6 py-3 bg-gradient-to-r from-purple-400 via-pink-400 to-red-400 rounded-xl shadow hover:scale-105 transition"
-            >
-              GitHub
-            </a>
-          </div>
-        </section>
-
         {/* Footer */}
         <footer className="text-center text-gray-400 text-sm mt-12 mb-4">
           © 2026 Zaid Afzal
